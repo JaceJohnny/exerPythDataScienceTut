@@ -2,14 +2,14 @@
 
 ## Summary of steps to complete
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Run Conda commands to create a new Conda environment for this assignment.
-- [ ] Open the repository Jupyter Notebook in VSCode or Jupyter Notebooks.
-- [ ] Add the code shown in this video to your Jupyter Notebook.
-- [ ] Push your updated file to your GitHub repository.
-- [ ] Answer assignment questions and submit a link to this GitHub repository in Canvas.
-- [ ] Remove your virtual environment from Jupyter Notebooks and from your machine.
+- [X] Fork this repository so you have your own copy to work on.
+- [X] Clone the repository on your local machine. 
+- [optional] Run Conda commands to create a new Conda environment for this assignment.
+- [X] Open the repository Jupyter Notebook in VSCode or Jupyter Notebooks.
+- [X] Add the code shown in this video to your Jupyter Notebook.
+- [X] Push your updated file to your GitHub repository.
+- [X] Answer assignment questions and submit a link to this GitHub repository in Canvas.
+- [X] Remove your virtual environment from Jupyter Notebooks and from your machine.
 
 ## Fork & Clone this repository
 
